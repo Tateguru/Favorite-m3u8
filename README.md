@@ -84,47 +84,27 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather", AccuWeather Now (1080p) [Geo-blocked]
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="Weather", Weathernation (720p) [Geo-blocked]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+INTRODUCTION 
+Tateguru1.m3u8 is a curated selection of favorite IPTV channels for Southern African viewers, originally compiled in the 1980s. This M3U8 file provides a nostalgic collection of channels for those who enjoy classic content.
 
-#EXTINF:-1 tvg-id="CapeTownTV.za" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="Entertainment", Cape Town TV (720p)
-https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8
+CONTENTS
+The Tateguru1.m3u8 file contains a selection of IPTV channels from Southern Africa, including:
 
-#EXTINF:-1 tvg-id="TrueAfrican.za" tvg-logo="https://i.imgur.com/PKkMr0G.png" group-title="Entertainment", True African (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
+- Local news and entertainment channels
+- Sports channels
+- Music channels
+- Classic TV shows and movies
 
-#EXTINF:-1 tvg-id="1KZN TV" tvg-logo="http://1kzntv.co.za/images/1kzn-logo_nav-1.png" group-title="Entertainment", 1KZN TV
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+USAGE
+To use the Tateguru1.m3u8 file, simply download or clone the file from this GitHub repository and load it into your preferred IPTV app or player.
 
-#EXTINF:-1 tvg-id="Soweto TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR8p4Sre-w2HMyU2Q9vlhjiWi9PNxgVQu0_pFMf1TyntVynjO11MoMM5finLMUaguN2ky8rc5mBK8LNOG_vPQf4Wn0oIhA3K0Ym2n90aoEOgYo9Xr4UfgdlaYyv5K1FYnjr43f3C2fEXY/s1600/Soweto+TV+channel+logo.jpg" group-title="Entertainment", Soweto TV
-https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+COMPATIBILITY 
+The Tateguru1.m3u8 file is compatible with most IPTV apps and players that support M3U8 playback.
 
-#EXTINF:-1 tvg-id="Tshwane TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Tshwane_TV.jpg" group-title="Entertainment", Tshwane TV
-https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+DISCLAIMER 
+The Tateguru1.m3u8 file is provided for personal, non-commercial use only. All channel rights and ownership belong to their respective owners.
 
-#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids", HappyKids (1080p)
-https://happykids-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids", Kartoon Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids", Moonbug Kids (1080p)
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Afrokiddos.za" tvg-logo="https://i.imgur.com/xcskfGJ.png" group-title="Kids", Afrokiddos (720p)
-https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
-
-#EXTINF:-1 tvg-id="AfriwoodBlockbuster.za" tvg-logo="https://i.imgur.com/xcskfGJ.png" group-title="Movies", Afriwood Blockbuster (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music", Afrobeats (1080p)
-https://stream.ecable.tv/afrobeats/index.m3u8
-
-#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="Religious", Supreme Master TV (720p)
-https://lbs-us1.suprememastertv.com/720p.m3u8
-
-#EXTINF:-1 tvg-id="RedemptionTVMinistry.za" tvg-logo="https://i.imgur.com/X8mASGH.png" group-title="Religious", Redemption TV Ministry (720p)
-http://live.nixsat.com:8080/play/rtm/index.m3u8
+CONTRIBUTION 
+If you'd like to contribute to the Tateguru1.m3u8 file or suggest new channels, please feel free to submit a pull request or issue on this GitHub repository.
 
