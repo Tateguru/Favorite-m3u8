@@ -1,6 +1,6 @@
 
 INTRODUCTION 
-Tateguru1.m3u8 is a curated selection of favorite IPTV channels for Southern African viewers, originally compiled in the 1980s. This M3U8 file provides a nostalgic collection of channels for those who enjoy classic content.
+Tateguru1.m3u8 is a curated selection of favorite IPTV channels for Southern African viewers, being the tastes of those who grew up in the 1980s and beyond. This M3U8 file provides a nostalgic collection of channels for those who enjoy classic content.
 
 CONTENTS
 The Tateguru1.m3u8 file contains a selection of IPTV channels from Southern Africa, including:
