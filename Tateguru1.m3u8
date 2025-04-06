@@ -32,7 +32,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-id="RT.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News Two", Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SABCLehae.gh" tvg-logo="https://i.imgur.com/H9q3Q9d.png" group-title="News Two", SABC Lihae
+#EXTINF:-1 tvg-id="SABCLehae.gh" tvg-logo="https://i.imgur.com/H9q3Q9d.png" group-title="News Two", SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="News Two", UN Web TV (540p)
@@ -122,14 +122,12 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music", Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="Religious", Supreme Master TV (720p)
-https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="Miracle TV" tvg-logo="http://ww1.prweb.com/prfiles/2016/11/06/13828575/micracle tv logo.jpg" group-title="Religious", Miracle TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amazing Discoveries" tvg-logo="http://amazingdiscoveries.org/assets/main/favicon-e116dc3971a06c2fc63a950d213dedee10ea31d1b7c5d9a0a7a7eabbcd75c60e.ico" group-title="Religious", Amazing DiscoveriesTV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedemptionTVMinistry.za" tvg-logo="https://i.imgur.com/X8mASGH.png" group-title="Religious", Redemption TV Ministry (720p)
 http://live.nixsat.com:8080/play/rtm/index.m3u8
 
-#EXTINF:-1 tvg-id="Miracle TV" tvg-logo="http://ww1.prweb.com/prfiles/2016/11/06/13828575/micracle tv logo.jpg" group-title="Religion", Miracle TV
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Amazing Discoveries" tvg-logo="http://amazingdiscoveries.org/assets/main/favicon-e116dc3971a06c2fc63a950d213dedee10ea31d1b7c5d9a0a7a7eabbcd75c60e.ico" group-title="Religion", Amazing DiscoveriesTV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
