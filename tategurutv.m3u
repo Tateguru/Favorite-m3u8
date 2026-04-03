@@ -1,0 +1,112 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://iptv-org.github.io/epg/guides.xml"
+
+##################################################
+# 🇿🇼 AFRICA / INTERNATIONAL ACCESS
+##################################################
+#EXTINF:-1 tvg-id="tvj.jamaica" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Television_Jamaica_logo.png" group-title="Africa & International",TV Jamaica
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
+
+#EXTINF:-1 tvg-id="news9.india" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/TV9_Bharatvarsh_Logo.png" group-title="Africa & International",News9 Live
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+
+##################################################
+# 📰 NEWS (GLOBAL)
+##################################################
+#EXTINF:-1 tvg-id="abc.news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/ABC_News_logo_2021.svg" group-title="News",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs.news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News.svg" group-title="News",CBS News
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master_8.m3u8
+
+#EXTINF:-1 tvg-id="fox.news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" group-title="News",Fox News
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera.eng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="News",Al Jazeera English
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="alarabiya.eng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Al_Arabiya_Logo.svg" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="trt.world" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/TRT_World_logo.svg" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 tvg-id="brics.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Globe_icon.svg" group-title="News",BRICS TV
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rt.india" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="News",RT India
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+##################################################
+# ⚽ SPORTS
+##################################################
+#EXTINF:-1 tvg-id="fifa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/FIFA_logo_without_slogan.svg" group-title="Sports",FIFA
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260330T195942.m3u8
+
+#EXTINF:-1 tvg-id="sportsgrid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/SportsGrid_logo.png" group-title="Sports",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="stadium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Stadium_network_logo.png" group-title="Sports",Stadium
+https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+
+##################################################
+# 🎬 MOVIES
+##################################################
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Film_reel_icon.svg",Movies TV
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Movie_camera_icon.svg",Drive-In Movies
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Western_icon.png",TVS Western Movies
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Film_icon.svg",Hollywood Action
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+
+##################################################
+# 📚 DOCUMENTARY
+##################################################
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Documentary_icon.svg",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/History_icon.svg",Timeline
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Animal_icon.svg",Real Wild
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+
+##################################################
+# 👶 KIDS
+##################################################
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Children_icon.svg",AfroLand Kids
+https://alt-al.otteravision.com/alt/al/al.m3u8
+
+##################################################
+# ✝️ RELIGION
+##################################################
+#EXTINF:-1 group-title="Religion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/3ABN_logo.png",3ABN Praise
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cross_icon.svg",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cross_icon.svg",Impact Network
+https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
+
+##################################################
+# 🎧 MUSIC
+##################################################
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Music_icon.svg",V2Beat UK
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+##################################################
+# 🎭 ENTERTAINMENT
+##################################################
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TV_icon.svg",Latest TV
+https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TV_icon.svg",Ninja Warrior
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Cops_title_card.png",Cops
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
