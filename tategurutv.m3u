@@ -18,6 +18,23 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-id="cbs.news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News.svg" group-title="News",CBS News
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master_8.m3u8
 
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://84.17.50.102/animalplanet/tracks-v1a1/mono.ts.m3u8
+
+##https://aufannada.github.io/streaming/animalplanet.m3u8
+
+##http://tv.casindo.org/hls/12/12.m3u8
+##https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd?encp=&uid=&expp=
+##https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+##https://cdn09jtedge.indihometv.com/joss/194/animalplanet/chunklist_w2018238476_b1544100_sleng.m3u8
+##https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+##https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/Stream(02)/index.m3u8
+
+
 #EXTINF:-1 tvg-id="fox.news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" group-title="News",Fox News
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
