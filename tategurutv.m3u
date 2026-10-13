@@ -1,17 +1,19 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/zw.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/za.xml.gz"
 
-#EXTINF:-1 tvg-id="ZBCTV.zw" tvg-name="ZBC TV" tvg-logo="https://i.imgur.com/Qe2b6X3.png" group-title="Zimbabwe | General",ZBC TV Zimbabwe
+#EXTINF:-1 tvg-id="ZBCTV.zw" tvg-name="ZBC TV General" tvg-logo="https://i.imgur.com/Qe2b6X3.png" group-title="Zimbabwe | General",ZBC TV (General Service)
+https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_d2ec1a70d5de11f082ec3344048b0100/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="ZBCNews.zw" tvg-name="ZBC News" tvg-logo="https://i.imgur.com/Qe2b6X3.png" group-title="Zimbabwe | News",ZBC TV (News Service)
 https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_9368e7a0d71b11f08200a52a96cbd7e4/index.m3u8
 
-#EXTINF:-1 tvg-name="Jamaica TV" tvg-logo="https://i.imgur.com/1Q9Z1A1.png" group-title="General | International",Jamaica TV
+#EXTINF:-1 tvg-name="Jamaica TV" tvg-logo="https://i.imgur.com/1Q9Z1A1.png" group-title="General | International",Jamaica TV (General)
 https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59/5160000.m3u8
 
-#EXTINF:-1 tvg-id="SABCEducation.za" tvg-name="SABC Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SABC_Education_logo.png" group-title="South Africa | Education",SABC Education
+#EXTINF:-1 tvg-id="SABCEducation.za" tvg-name="SABC Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SABC_Education_logo.png" group-title="South Africa | Education",SABC Education (Education)
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-name="Living Faith" tvg-logo="https://i.imgur.com/5M4aG6a.png" group-title="Religion | Christian",Living Faith Network
+#EXTINF:-1 tvg-name="Living Faith" tvg-logo="https://i.imgur.com/5M4aG6a.png" group-title="Religion | Christian",Living Faith (Religion)
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
 
-#EXTINF:-1 tvg-name="Afrobeats TV" tvg-logo="https://i.imgur.com/Y3lKj8f.png" group-title="Music | Afro",Afrobeats TV
+#EXTINF:-1 tvg-name="Afrobeats TV" tvg-logo="https://i.imgur.com/Y3lKj8f.png" group-title="Music | Afro",Afrobeats (Music)
 https://load.ecable.tv/afbtv/index.fmp4.m3u8
-
