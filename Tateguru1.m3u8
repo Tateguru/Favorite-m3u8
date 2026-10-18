@@ -211,3 +211,37 @@ https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Circus.global" group-title="Show",Circus
 https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01439-amg01439c1-amgplt0201/playlist.m3u8?channel_name=Cirque%20du%20Soleil&content_genre=Sport&ic=IAB17&rating=PG&language=US&provider=FreeLiveSports&us_privacy=&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwatch.freelivesports.tv%2Fpages%2Fdiscover%2Fe%2Flive-tv%3Fchannel%3D698298987b62c73309c5256b&lmt=0&did=HlnTMV
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1   group-title="Documentary",History Hunters (1080p)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+#EXTINF:-1   group-title="Documentary",Mayday Air Disaster (1080p)
+https://d1vx4007e1im6x.cloudfront.net/playlist.m3u8
+#EXTINF:-1   group-title="Documentary",Real Disaster Channel (1080p) [Geo-blocked]
+https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
+#EXTINF:-1   group-title="Documentary",Space Series (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1   group-title="Documentary",Alien Nation (1080p)
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+#EXTINF:-1   group-title="Documentary",History Hunters (1080p)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+#EXTINF:-1   group-title="Documentary",Mayday Air Disaster (1080p)
+https://d1vx4007e1im6x.cloudfront.net/playlist.m3u8
+#EXTINF:-1   group-title="Documentary",Real Disaster Channel (1080p) [Geo-blocked]
+https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
+#EXTINF:-1   group-title="Documentary",Space Series (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1   group-title="Documentary",Alien Nation (1080p)
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ZBCTV.zw" tvg-name="ZBC TV General" tvg-logo="https://i.imgur.com/Qe2b6X3.png" group-title="Zimbabwe",ZBC TV (General Service)
+https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_d2ec1a70d5de11f082ec3344048b0100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ZBCNews.zw" tvg-name="ZBC News" tvg-logo="https://i.imgur.com/Qe2b6X3.png" group-title="Zimbabwe",ZBC TV (News Service)
+https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_9368e7a0d71b11f08200a52a96cbd7e4/index.m3u8
+#EXTINF:-1 tvg-name="Jamaica TV" tvg-logo="https://i.imgur.com/1Q9Z1A1.png" group-title="General",Jamaica TV (General)
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59/5160000.m3u8
+#EXTINF:-1 tvg-id="SABCEducation.za" tvg-name="SABC Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SABC_Education_logo.png" group-title="Education",SABC Education (Education)
+https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-name="Afrobeats TV" tvg-logo="https://i.imgur.com/Y3lKj8f.png" group-title="Music",Afrobeats (Music)
+https://load.ecable.tv/afbtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Living Faith" tvg-logo="https://i.imgur.com/5M4aG6a.png" group-title="Religious",Living Faith (Religion)
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
