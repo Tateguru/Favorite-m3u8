@@ -1,4 +1,27 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Tateguru/Select-EPG/refs/heads/main/Select%20Epg%2001"
+#EXTINF:-1 tvg-id="EnglishTV" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Education",English TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
+#EXTINF:-1 tvg-id="BestActionTV" tvg-logo="https://i.imgur.com/QhJ4s3n.png" group-title="Movies",Best Action TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+#EXTINF:-1 tvg-id="CowboyMovieChannel" tvg-logo="https://i.imgur.com/7G6a3yq.png" group-title="Movies",Cowboy Movie Channel (1080p)
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="GoalTV" tvg-logo="https://i.imgur.com/2pRz4qZ.png" group-title="Sports",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-id="ITSF" tvg-logo="https://i.imgur.com/2pRz4qZ.png" group-title="Sports", ITSF (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
+#EXTINF:-1 tvg-id="KungFuPlus" tvg-logo="https://i.imgur.com/QhJ4s3n.png" group-title="Movies",Kung Fu+ (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+#EXTINF:-1 tvg-id="OuterVision" tvg-logo="https://i.imgur.com/YwY1X5b.png" group-title="SciFi",Outer Vision (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
+#EXTINF:-1 tvg-id="MercuryPlus" tvg-logo="https://i.imgur.com/YwY1X5b.png" group-title="SciFi",Mercury+ (1080p)
+https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
+#EXTINF:-1 tvg-id="KiddoPlus" tvg-logo="https://i.imgur.com/r9O4a6n.png" group-title="Kids", Kiddo+ (1080p)
+https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
+#EXTINF:-1 tvg-id="HeritageTourism" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Travel",Heritage Tourism (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
+#EXTINF:-1 tvg-id="XtremSports" tvg-logo="https://i.imgur.com/2pRz4qZ.png" group-title="Sports",Xtrem Sports (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+fast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-id="Wild Planet.us" tvg-logo="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4fa.png" group-title="Documentary", Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/720p/index.m3u8
 #EXTINF:-1 tvg-id="MTRSPT1.us" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/08/mtrspt1.png" group-title="Sports", ITS SportsTribal Foosball TV
