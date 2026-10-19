@@ -262,7 +262,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18
 https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ZBCTV.zw" tvg-name="ZBC TV General" tvg-logo="https://zimbabwe.misa.org/wp-content/uploads/2016/08/320px-Zbc-logo-final.jpg" group-title="Zimbabwe",ZBC TV (General Service)
 https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_d2ec1a70d5de11f082ec3344048b0100/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ZBCNews.zw" tvg-name="ZBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/ZBC_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Zimbabwe",ZBC TV (News Service)
+#EXTINF:-1 tvg-id="ZBCNews.zw" tvg-name="ZBC News" tvg-logo="http://zbctv.zbc.co.zw/wp-content/uploads/sites/4/2020/08/cropped-1ztv1.png" group-title="Zimbabwe",ZBC TV (News Service)
 https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_9368e7a0d71b11f08200a52a96cbd7e4/index.m3u8
 #EXTINF:-1 tvg-name="Jamaica TV" tvg-logo="https://i.imgur.com/1Q9Z1A1.png" group-title="General",Jamaica TV (General)
 https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59/5160000.m3u8
