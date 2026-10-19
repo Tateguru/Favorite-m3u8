@@ -260,7 +260,7 @@ https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 #EXTINF:-1   group-title="Documentary",Alien Nation (1080p)
 https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ZBCTV.zw" tvg-name="ZBC TV General" tvg-logo="https://i.imgur.com/Qe2b6X3.png" group-title="Zimbabwe",ZBC TV (General Service)
+#EXTINF:-1 tvg-id="ZBCTV.zw" tvg-name="ZBC TV General" tvg-logo="https://zimbabwe.misa.org/wp-content/uploads/2016/08/320px-Zbc-logo-final.jpg" group-title="Zimbabwe",ZBC TV (General Service)
 https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_d2ec1a70d5de11f082ec3344048b0100/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ZBCNews.zw" tvg-name="ZBC News" tvg-logo="https://i.imgur.com/Qe2b6X3.png" group-title="Zimbabwe",ZBC TV (News Service)
 https://stream-185747.castr.net/62eacb0379154ebc03df37e1/live_9368e7a0d71b11f08200a52a96cbd7e4/index.m3u8
